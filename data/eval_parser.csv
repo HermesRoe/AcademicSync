@@ -1,0 +1,12 @@
+﻿course_code,course_name,deliverable,expected_due_date,parsed_due_date,expected_weight,parsed_weight,field_accuracy
+CS101,CS101 - Introduction to Programming,Assignment 1 - Python basics,2026-10-09,2026-10-09,10,10,1.00
+CS101,CS101 - Introduction to Programming,Midterm Examination,2026-10-15,2026-10-15,25,25,1.00
+CS101,CS101 - Introduction to Programming,Quiz 1 - Functions and lists,2026-10-23,2026-10-23,5,5,1.00
+CS101,CS101 - Introduction to Programming,Final Project - Student tracker,2026-11-20,2026-11-20,35,35,1.00
+CS101,CS101 - Introduction to Programming,Final Examination,2026-12-05,2026-12-05,25,25,1.00
+MATH201,MATH201 - Linear Algebra,Problem Set 1 - Vector Spaces,2026-09-18,2026-09-18,15,15,1.00
+MATH201,MATH201 - Linear Algebra,Midterm Exam - Eigenvalues & Transformations,2026-10-16,2026-10-16,35,35,1.00
+MATH201,MATH201 - Linear Algebra,Final Examination - Comprehensive,2026-12-08,2026-12-08,50,50,1.00
+ENG105,ENG105 - Technical Communication,Literature Synthesis Paper,2026-09-25,2026-09-25,20,20,1.00
+ENG105,ENG105 - Technical Communication,Oral Presentation & Viva,2026-10-30,2026-10-30,30,30,1.00
+ENG105,ENG105 - Technical Communication,Capstone Technical Report,2026-11-27,2026-11-27,50,50,1.00

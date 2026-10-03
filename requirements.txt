@@ -1,0 +1,15 @@
+langchain>=0.2
+langchain-openai>=0.2
+langchain-ollama>=0.2
+langchain-text-splitters>=0.2
+langgraph>=0.2
+pydantic>=2.6
+pypdf>=4.2
+google-api-python-client>=2.120
+google-auth-oauthlib>=1.2
+icalendar>=5.0.12
+streamlit>=1.35
+pandas
+python-dotenv>=1.0
+tzdata
+pytest

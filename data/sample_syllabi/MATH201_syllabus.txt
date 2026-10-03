@@ -1,0 +1,8 @@
+Course: MATH201 - Linear Algebra
+Instructor: Dr. Alan Turing
+Semester: Fall 2026
+
+Course Deliverables & Grading Policy:
+1. Problem Set 1 - Vector Spaces (Due: 2026-09-18, Weight: 15%)
+2. Midterm Exam - Eigenvalues & Transformations (Due: 2026-10-16, Weight: 35%)
+3. Final Examination - Comprehensive (Due: 2026-12-08, Weight: 50%)

@@ -1,0 +1,22 @@
+SATHYABAMA INSTITUTE OF SCIENCE AND TECHNOLOGY
+Department of Computer Science and Engineering
+Course: CS101 - Introduction to Programming
+Semester: Odd Semester 2026
+
+COURSE DESCRIPTION
+This course introduces problem solving and programming in Python. Students learn variables, control flow,
+functions, data structures and basic file handling through lectures and weekly labs.
+
+ASSESSMENT AND GRADING
+Component                         Due                 Weight
+Assignment 1 - Python basics      9 October 2026      10%
+Midterm Examination               15 October 2026     25%
+Quiz 1 - Functions and lists      Week 11             5%
+Final Project - Student tracker   20 November 2026    35%
+Final Examination                 5 December 2026     25%
+
+Total: 100%
+
+POLICIES
+Late submissions lose 10% per day. Attendance of at least 75% is required to sit the final examination.
+Academic integrity: all submitted work must be the student's own. Office hours: Tuesdays 3-4 PM.

@@ -1,0 +1,8 @@
+Course: ENG105 - Technical Communication
+Instructor: Prof. Sarah Jenkins
+Semester: Fall 2026
+
+Assessment Schedule:
+- Literature Synthesis Paper: Due 2026-09-25 (Weight: 20%)
+- Oral Presentation & Viva: Due 2026-10-30 (Weight: 30%)
+- Capstone Technical Report: Due 2026-11-27 (Weight: 50%)

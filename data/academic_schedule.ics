@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AcademicSync//EN
+BEGIN:VEVENT
+SUMMARY:[Study] Literature Synthesis Paper: Literature Review Preparation
+DTSTART;TZID=Asia/Kolkata:20260921T180000
+DTEND;TZID=Asia/Kolkata:20260921T200000
+DTSTAMP:20261003T155024Z
+UID:ff9a2d54b84604fa83a22faed05e792e@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Literature Synthesis Paper: Research Article Analysis
+DTSTART;TZID=Asia/Kolkata:20260923T180000
+DTEND;TZID=Asia/Kolkata:20260923T200000
+DTSTAMP:20261003T155024Z
+UID:9d1a1f6f50ed45c05aa7ffc4c417a1d6@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Oral Presentation & Viva: Understanding the Task
+DTSTART;TZID=Asia/Kolkata:20261024T180000
+DTEND;TZID=Asia/Kolkata:20261024T200000
+DTSTAMP:20261003T155024Z
+UID:315d7cbccbea0d7d6640acef6b6c73b6@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Oral Presentation & Viva: Preparation Strategies
+DTSTART;TZID=Asia/Kolkata:20261026T180000
+DTEND;TZID=Asia/Kolkata:20261026T200000
+DTSTAMP:20261003T155024Z
+UID:3e04c8bd61c93682af031c26fc4a1dc2@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Oral Presentation & Viva: Effective Delivery Techniques
+DTSTART;TZID=Asia/Kolkata:20261028T180000
+DTEND;TZID=Asia/Kolkata:20261028T200000
+DTSTAMP:20261003T155024Z
+UID:2c52954ec0e6d736b4b67bbaf81bd1b5@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Capstone Technical Report: Understanding the Assignment
+DTSTART;TZID=Asia/Kolkata:20261117T180000
+DTEND;TZID=Asia/Kolkata:20261117T200000
+DTSTAMP:20261003T155024Z
+UID:e3b209399f689d6f099aec509aedcd75@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Capstone Technical Report: Research and Planning
+DTSTART;TZID=Asia/Kolkata:20261120T180000
+DTEND;TZID=Asia/Kolkata:20261120T200000
+DTSTAMP:20261003T155024Z
+UID:9ee68ec638b096fe73bae8ce92bde0f3@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Study] Capstone Technical Report: Drafting and Outlining
+DTSTART;TZID=Asia/Kolkata:20261124T180000
+DTEND;TZID=Asia/Kolkata:20261124T200000
+DTSTAMP:20261003T155024Z
+UID:7d2dbb31055eace1f139538dfe67c743@academicsync
+DESCRIPTION:Course: ENG105 - Technical Communication
+END:VEVENT
+END:VCALENDAR
